@@ -1,0 +1,6 @@
+echo # Practica-Html-luis  README.md
+git init
+git add README.md
+git commit -m first commit
+git remote add origin httpsgithub.comLuisf0909Practica-Html-luis.git
+git push -u origin master
